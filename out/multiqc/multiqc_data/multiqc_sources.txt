@@ -1,0 +1,8 @@
+Module	Section	Sample Name	Source
+STAR	SummaryLog	Log.final.out	/home/user08/simulacro/testsim/out/star/ERR2868172/Log.final.out
+FastQC	all_sections	ERR2868174_1	/home/user08/simulacro/testsim/out/fastqc/ERR2868174_1_fastqc.zip
+FastQC	all_sections	ERR2868174_2	/home/user08/simulacro/testsim/out/fastqc/ERR2868174_2_fastqc.zip
+FastQC	all_sections	ERR2868172_2	/home/user08/simulacro/testsim/out/fastqc/ERR2868172_2_fastqc.zip
+FastQC	all_sections	ERR2868173_1	/home/user08/simulacro/testsim/out/fastqc/ERR2868173_1_fastqc.zip
+FastQC	all_sections	ERR2868172_1	/home/user08/simulacro/testsim/out/fastqc/ERR2868172_1_fastqc.zip
+FastQC	all_sections	ERR2868173_2	/home/user08/simulacro/testsim/out/fastqc/ERR2868173_2_fastqc.zip
